@@ -1,0 +1,6 @@
+{
+  "name": "Keluarga Ramsiah-Fatmah",
+  "description": "Sistem Informasi Data Keluarga Besar Bapak Ramsiah dan Ibu Fatmah dengan Alur Persetujuan (Approval Workflow)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
